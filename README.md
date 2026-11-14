@@ -1,7 +1,7 @@
 # Vehicle Rental Service
 
 ## About
-This is our final project for the SoftwareDesign Patterns course.
+This is our final project for the Software Design Patterns course.
 It is a simple console program in Java for renting a car, a bike or a van.
 
 ## Features
